@@ -4,7 +4,7 @@
 
     <groupId>com.sumologic</groupId>
     <artifactId>sumologic-aws-lambda-unzip</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>Sumo Logic AWS Lambda Unzip</name>
     <description>Sumo Logic AWS Lambda Unzip</description>
